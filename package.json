@@ -1,0 +1,19 @@
+{
+  "name": "react-carousel",
+  "version": "1.0.0",
+  "description": "Simple carousel with slotted content.",
+  "main": "source/Carousel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerard-payne/react-carousel.git"
+  },
+  "author": "Gerard Payne <software@gerard-payne.net>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/gerard-payne/react-carousel/issues"
+  },
+  "homepage": "https://github.com/gerard-payne/react-carousel#readme"
+}
