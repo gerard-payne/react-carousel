@@ -2,7 +2,6 @@ import React, { useRef, useEffect } from 'react';
 import "./Carousel.css";
 
 function Carousel(props) {
-    console.log("Carousel", props);
     const slideshow = useRef();
     const timer = useRef();
     
